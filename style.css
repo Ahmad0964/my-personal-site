@@ -1,0 +1,184 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.4em;
+}
+
+h1 {
+    color: #398383;
+    font-family: 'Caveat', cursipe;
+    font-size: 7rem;
+    margin: 0;
+    line-height: 2;
+}
+
+a {
+    color: #0a5e61;
+    text-decoration: none;
+}
+
+
+.h1-p {
+    color: #11999E;
+    font-weight: normal;
+    font-size: 2.5rem;
+    margin-top: 0;
+}
+
+.pro {
+    margin: 0;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Cuprum', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Cuprum', sans-serif;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #ebd6d1;
+    border-width: 5px;
+    width: 3%;
+    margin: 100px auto;
+}
+
+.top-container {
+    background-color: #ccf2f4;
+    position: relative;
+    padding-top: 50px;
+}
+
+
+.img-t {
+    display: inline-block;
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.img-m {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+
+.img-m2 {
+    display: inline-block;
+    position: absolute;
+    bottom: 300px;
+    right: 550px;
+}
+
+.img-b {
+    display: inline-block;
+    height: 400px;
+}
+
+.Ahmad-pic {
+    height: 200px;
+    width: 200px;
+}
+
+.code {
+    float: left;
+    margin-right: 30px;
+
+    height: 35%;
+    width: 35%;
+
+}
+
+.pizza {
+    width: 35%;
+    height: 35%;
+    float: right;
+    margin-left: 20px;
+
+}
+
+.middle-container {
+    background-color: #e1f7f7;
+    padding-top: 100px;
+}
+
+.profile {
+    width: 50%;
+    margin: 0 auto 100px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me {
+    background-color: #e1f7f7;
+    border-radius: 5%;
+    width: 50%;
+    height: 500px;
+    margin: 0 auto 0 auto;
+    text-decoration: none;
+}
+
+.bottom {
+    color: #9a8194;
+    background-color: #ffffff;
+    border-radius: 10%;
+    position: relative;
+    bottom: 300px;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+.bottom:hover {
+    background-color: #9a8194;
+    font-size: 1.8em;
+    text-decoration: none;
+    border-radius: 20%;
+    color: #e1f7f7;
+}
+
+.img-bottom-container {
+    width: 50px;
+    height: 50px;
+}
+
+.gmail-img {
+
+    position: relative;
+    right: 300px;
+    bottom: 100px;
+    height: 350px;
+    width: 350px;
+}
+
+.bottom-container {
+    background-color: #c6a9a3;
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+}
+
+.linked {
+    height: 100px;
+    width: 200px;
+}
+
+.footer-link {
+    padding: 10px;
+}
+.footer-link:hover{
+    color:  #fff4fd;
+}
